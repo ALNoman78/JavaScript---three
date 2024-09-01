@@ -30,3 +30,13 @@ let modus = 10
 let maths = 3;
 let total = modus % maths
 console.log(total);
+
+// isNaN () function false
+
+// let sum = 140; sum = "120" return (false)
+// console.log(isNaN(sum))
+
+// isNaN () true
+
+let sum = "Noman";
+console.log(isNaN(sum))
