@@ -1,5 +1,5 @@
 let x = [12, 13, 15, 156, 65, 34, 76, 44];
-let y = x.includes(12);
+let y = x.includes(12); // if 12 defined in array then it will be print true otherwise it will print false
 console.log(y);
 
 let m = x.indexOf(65);
